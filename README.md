@@ -1,6 +1,6 @@
-# Webpack Starter
+# Tarea
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es el proyecto donde podras ingresar tareas 
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
